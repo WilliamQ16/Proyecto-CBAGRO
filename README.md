@@ -21,3 +21,15 @@ Después de entender los requerimientos se comenzó a plantear cómo sería este
 ### Versión de Escritorio
 
 ![image](https://user-images.githubusercontent.com/110683744/193490261-2aed9bcf-2097-4a52-be43-bf1f5d24d416.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193490409-5c32e6c0-0e6e-4b46-b6a9-c0f6c9ac6d9a.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193491032-f591b28d-7ff2-4bf0-aa0f-f1c7a08f62eb.png)
+
+### Versión Móvil
+
+![image](https://user-images.githubusercontent.com/110683744/193491157-447e56d4-e548-430b-a2ff-75b3b787e8ba.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193491586-19e28f56-1ca8-4e6d-90dd-3f6143d269ef.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193491669-8ca99973-5037-4ad8-b11f-68060e27401e.png)
