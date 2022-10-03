@@ -181,6 +181,7 @@ Aca se mostraran la gran unidad entre aprendiz e instructor como directorios don
 
 #### codigo para poner el carrusel ####
 
+```
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0"
@@ -223,6 +224,9 @@ Aca se mostraran la gran unidad entre aprendiz e instructor como directorios don
                         <span class="visually-hidden">Next</span>
                     </button>
                 </div>
+```
+
+
               
 ## Cómo Llegar ##
 En esta parte se puso un mapa extraído de maps con la ubicación del **SENA** 
