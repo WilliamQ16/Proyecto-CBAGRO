@@ -83,3 +83,12 @@ Comenzamos con el index y de paso se explica la maqueta general porque esta cons
 
 En el Nav se usó el Nav-Bar de bootstrap un conjunto de códigos que permite que en la versión de escritorio aparezca el nav con sus ítems de la forma tradicional pero en la versión móvil se despliega por un botón de hamburguesa de la siguiente manera:
 
+![image](https://user-images.githubusercontent.com/110683744/193492741-8c5c807e-009b-46d6-9b11-00791beb068c.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193492778-adcdcf19-02bc-4323-bdd4-3e3b20a28f77.png)
+
+también en los ítems de categorías y exposiciones van acompañados de un icono implementado por la librería google icons.
+
+![image](https://user-images.githubusercontent.com/110683744/193492955-c1588cf5-f4f2-4fb4-bb15-2bbe93466045.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193493089-f57dbb06-1e1b-42d7-8b80-5363e5b6a2f6.png)
