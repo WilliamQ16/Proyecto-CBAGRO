@@ -42,3 +42,44 @@ El resultado de este prototipo ya finalizado fue el siguiente:
 
 ### Versión de Escritorio
 
+![image](https://user-images.githubusercontent.com/110683744/193491669-8ca99973-5037-4ad8-b11f-68060e27401e.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193492226-3cf03d9c-972a-42a0-b58c-7dabef741643.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193492298-c4666882-b159-4afa-abac-0f72a557cf0b.png)
+
+### Versión Móvil
+
+![image](https://user-images.githubusercontent.com/110683744/193492373-3190aec2-217f-46ae-ae3c-4967e96e6dec.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193492408-b9a11acc-b98a-4406-90b7-c3f3f75e7c2c.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193492454-b420802b-9977-4d0f-acd0-5edbb6c4dde2.png)
+
+Para interactuar con estos prototipos dirigirse a los siguientes enlaces:
+
+Prototipo Movil: https://www.figma.com/file/MlhZR4QiVZm7y7I4wP0kaa/ADSO
+
+Prototipo Escritorio: https://www.figma.com/file/pSZLEQu5OGVQHas4GNkuKY/SENAGRO-PC
+
+### Producto Final 
+
+En la realización del proyecto ya en sí repartieron entre los integrantes del equipo sus respectivas labores de forma equitativa y en fechas que se consideraron cómodas para trabajar y que no afectarán tanto al proyecto como a sus actividades fuera de la institución. 
+
+La organización de estas actividades fueron de la siguiente manera:
+Diego Diaz: Especies Menores, Objetivos.
+
+Christian De Avila: Repostería y Coctelería, Ganadería.
+
+Mauricio Rodríguez: Quienes Somos, Ubicación, Eventos. (A Mauricio le tocó tres páginas a realizar, ya que el contenido de estas la mayoría estaba tanto en los audios suministrados por los instructores técnicos vía whatsapp como por el blog digital del centro de formación).
+
+William Garzón: Biotecnología,  Apicultura, Maqueta General de todo el proyecto, Edición Final. (William fue el líder de equipo, por ende él fue quien dio todas las directrices para poder realizar este proyecto, como tiene más experiencia en programación creó la plantilla principal y corrigió todos los errores de los trabajos de los demás integrantes del equipo).
+
+Ya explicando esto es momento de explicar en qué consiste el proyecto final:
+
+## Inicio  y Maqueta General ##
+
+Comenzamos con el index y de paso se explica la maqueta general porque esta consiste que se cumplieron todos los requerimientos de maquetación implementando las secciones de Header, Nav, Aside, Main, Footer donde se uso con un diseño de color de #fd7e14.
+
+En el Nav se usó el Nav-Bar de bootstrap un conjunto de códigos que permite que en la versión de escritorio aparezca el nav con sus ítems de la forma tradicional pero en la versión móvil se despliega por un botón de hamburguesa de la siguiente manera:
+
