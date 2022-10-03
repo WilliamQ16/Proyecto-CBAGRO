@@ -175,13 +175,54 @@ El objetivo por el cual creamos este proyecto es para los futuros aprendices ten
 
 Aca se mostraran la gran unidad entre aprendiz e instructor como directorios donde ellos se preocupan por el bienestar todos y hacen que el CBA sea un ambiente de educación y diversidad de manera bien implementada. 
 
-- ![image](https://user-images.githubusercontent.com/110676905/193492236-2bfc4f6b-1db3-450d-bc65-419ee1d809d0.png)
-- ![image](https://user-images.githubusercontent.com/110676905/193492369-3d2dbb9f-c6f5-4b9b-bae5-49addb70eaec.png)
-- ![image](https://user-images.githubusercontent.com/110676905/193492344-91dbd75f-f703-439b-bc55-0e65c37ad0ea.png)
+![image](https://user-images.githubusercontent.com/110676905/193492236-2bfc4f6b-1db3-450d-bc65-419ee1d809d0.png)
+![image](https://user-images.githubusercontent.com/110676905/193492369-3d2dbb9f-c6f5-4b9b-bae5-49addb70eaec.png)
+![image](https://user-images.githubusercontent.com/110676905/193492344-91dbd75f-f703-439b-bc55-0e65c37ad0ea.png)
 
 #### codigo para poner el carrusel ####
 
+<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0"
+                            class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
+                            aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
+                            aria-label="Slide 3"></button>
+                    </div>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="https://www.sena.edu.co/es-co/Noticias/NoticiasImg/BPganaderia_13Dic2018.jpg"
+                                class="d-block w-100 carusel2 img_carusel" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                                <!-- para añadir texto alternativo  -->
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="http://2.bp.blogspot.com/-LG1eYwA5fos/TVbRBuMLtsI/AAAAAAAAADk/IldWYroxkkc/s1600/Auditorio.JPG"
+                                class="d-block w-100 carusel2 img_carusel" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
 
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://1.bp.blogspot.com/-P_XvsfBEplM/WdVHxsiEEAI/AAAAAAAAELw/2YDAIuykoI0EDsPRF8uhJJ-noHGuK9alQCLcBGAs/s1600/IMG_9987.JPG"
+                                class="d-block w-100 carusel2 img_carusel" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                            </div>
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
+                        data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions"
+                        data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
               
 ## Cómo Llegar ##
 En esta parte se puso un mapa extraído de maps con la ubicación del **SENA** 
