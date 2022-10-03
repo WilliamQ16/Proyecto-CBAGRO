@@ -304,15 +304,15 @@ En la Exposición de cocina y preparación contamos con la conocida repostería 
 
 ![image](https://user-images.githubusercontent.com/110683744/193495932-37e5706d-a66d-43cb-869e-fe2e2ccf7253.png)
 
-- Beneficios de la repostería casera
-- Ingredientes nutritivos
-- Alimento completo
-- Libre de conservantes
-- Menor cantidad de calorías. 
-- Menor cantidad de grasa.
-- Reducción del colesterol.
-- Bueno para la salud
-- Reduce la contaminación.
+ #### Beneficios de la repostería casera  :+1: 
+- [x] Ingredientes nutritivos.
+- [x] Alimento completo.
+- [x] Libre de conservantes.
+- [x] Menor cantidad de calorías. 
+- [x] Menor cantidad de grasa.
+- [x] Reducción del colesterol.
+- [x] Bueno para la salud.
+- [x] Reduce la contaminación.
 
 ![image](https://user-images.githubusercontent.com/110683744/193496178-a535e44f-666d-45f0-9157-9ba0002aa6c5.png)
 
