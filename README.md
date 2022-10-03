@@ -33,3 +33,12 @@ Después de entender los requerimientos se comenzó a plantear cómo sería este
 ![image](https://user-images.githubusercontent.com/110683744/193491586-19e28f56-1ca8-4e6d-90dd-3f6143d269ef.png)
 
 ![image](https://user-images.githubusercontent.com/110683744/193491669-8ca99973-5037-4ad8-b11f-68060e27401e.png)
+
+### Prototipo 
+
+El prototipo se realizó en la plataforma web llamada Figma, que se encarga de crear y dar las herramientas para plantear prototipos simulados siendo su finalidad ser una gran aliada para los productos de software. La idea de este prototipo es presentar cómo sería la interacción y el diseño final del proyecto cuando ya esté terminado.
+
+El resultado de este prototipo ya finalizado fue el siguiente:
+
+### Versión de Escritorio
+
