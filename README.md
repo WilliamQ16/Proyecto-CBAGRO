@@ -173,7 +173,7 @@ El objetivo por el cual creamos este proyecto es para los futuros aprendices ten
 ![image](https://user-images.githubusercontent.com/110683744/193495347-211403fb-8612-4eba-958c-52f02cbfe4c3.png)
 
 
-Aca se mostraran la gran unidad entre aprendiz e instructor como directorios donde ellos se preocupan por el bienestar todos y hacen que el CBA sea un ambiente de educación y diversidad de manera bien implementada 
+Aca se mostraran la gran unidad entre aprendiz e instructor como directorios donde ellos se preocupan por el bienestar todos y hacen que el CBA sea un ambiente de educación y diversidad de manera bien implementada. 
 
 ![image](https://user-images.githubusercontent.com/110683744/193495386-4821d91b-624e-44cb-9606-e7d134c44de0.png)
 
@@ -272,11 +272,11 @@ Por lo tanto también se realizó una sección donde se muestran los productos c
 
 El CBA cuenta con una exagerada cantidad de animales en el área de la ganadería dándonos a entender su capacidad productora y de tecnología que tiene para mantener estos animales, entre sus usos están los productos primarios de la crianza de bovinos de leche son la leche, carne y cuero. Los pequeños productores, con fines de seguridad alimentaria, elaboran queso o yogurt. La industria procesa una diversidad de productos lácteos los cuales recalcamos que en el CBA vendemos.
 
-El resultado de los derivados lácteos corresponde a una serie de procesos artesanales que adelantan dentro de la misma finca: primero ordeñan manualmente, cuelan la leche, se pasteuriza y se distribuye para la preparación de cada producto. "Actualmente, estamos preparando yogures de feijoa, piña, frutos rojos, mango, lulo y maracuyá, los cuales son naturales y sin aditivos. Todo esto es gracias al SENA, a quien le agradezco inmensamente porque es una Entidad que no se fija en clases sociales, si somos del campo o de la ciudad"
+El resultado de los derivados lácteos corresponde a una serie de procesos artesanales que adelantan dentro de la misma finca: primero ordeñan manualmente, cuelan la leche, se pasteuriza y se distribuye para la preparación de cada producto. "Actualmente, estamos preparando yogures de feijoa, piña, frutos rojos, mango, lulo y maracuyá, los cuales son naturales y sin aditivos. Todo esto es gracias al SENA, a quien le agradezco inmensamente porque es una Entidad que no se fija en clases sociales, si somos del campo o de la ciudad".
 
 ![image](https://user-images.githubusercontent.com/110683744/193495731-fac65117-b6c4-4d71-9d55-5df8c45d43b2.png)
 
-El concepto de hato hace referencia a una porción de ganado mayor (vacas, toros, bueyes, búfalos, caballos, etc.) y a las fincas destinadas a la crianza de estos animales. El concepto de hato hace referencia a una porción de ganado mayor (vacas, toros, bueyes, búfalos, caballos, etc.) en el CBA no tengo certeza de que tengamos caballos aún pero podría suponer que si 
+El concepto de hato hace referencia a una porción de ganado mayor (vacas, toros, bueyes, búfalos, caballos, etc.) y a las fincas destinadas a la crianza de estos animales. El concepto de hato hace referencia a una porción de ganado mayor (vacas, toros, bueyes, búfalos, caballos, etc.) en el CBA no tengo certeza de que tengamos caballos aún pero podría suponer que si. 
 
 ![image](https://user-images.githubusercontent.com/110683744/193495760-c648370b-2fc8-4467-86b2-a34ed5e1dd0c.png)
 
@@ -312,7 +312,7 @@ En la Exposición de cocina y preparación contamos con la conocida repostería 
 
 ![image](https://user-images.githubusercontent.com/110683744/193496178-a535e44f-666d-45f0-9157-9ba0002aa6c5.png)
 
-Bueno en nuestros menús no pueden faltar los clásicos y mejores postres del CBA como unos deliciosos postres de flan o el clásico postre de plátano o torta de plátano ya más adentrándonos podemos ver  que los principales del CBA y más Tops en cuanto a preparación y proceso son los siguientes 
+Bueno en nuestros menús no pueden faltar los clásicos y mejores postres del CBA como unos deliciosos postres de flan o el clásico postre de plátano o torta de plátano ya más adentrándonos podemos ver  que los principales del CBA y más Tops en cuanto a preparación y proceso son los siguientes: 
 
 - Carolina. Josean Alija. ...
 - Baklava. Chris Ford. ...
@@ -329,7 +329,7 @@ En cuanto a Coctelería y en nuestro curso de Bartender que tratamos todo lo que
 
 ![image](https://user-images.githubusercontent.com/110683744/193496319-bd11dec7-6219-4118-a53c-ad8add867b5e.png)
 
-ya sea un Daikiri , margarita , Manhattan siempre la sensacion sera la misma al verlos por eso me fije en que el usuario se sienta tentado mínimamente a preguntar qué es o a qué sabor se  asemeja 
+ya sea un Daikiri , margarita , Manhattan siempre la sensacion sera la misma al verlos por eso me fije en que el usuario se sienta tentado mínimamente a preguntar qué es o a qué sabor se  asemeja. 
 
 ![image](https://user-images.githubusercontent.com/110683744/193496359-35e6e543-c67b-4972-9ff5-30d721d0fdb9.png)
 
