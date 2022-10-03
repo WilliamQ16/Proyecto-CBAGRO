@@ -20,3 +20,4 @@ Después de entender los requerimientos se comenzó a plantear cómo sería este
 
 ### Versión de Escritorio
 
+![image](https://user-images.githubusercontent.com/110683744/193490261-2aed9bcf-2097-4a52-be43-bf1f5d24d416.png)
