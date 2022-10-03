@@ -97,19 +97,211 @@ Las librerías de google también fueron de gran utilidad para la fuente general
 A continuación se presenta todos los requerimientos que se cumplieron en este proyecto para la maquetación general:
 Las categorías.
 
--Exposiciones.
--Eventos.
--Quienes somos.
--Objetivos.
--Inicio.
--Cómo llegar .
--El logo del SENA.
--El logo del CBAGRO.
--El copyright SENA CBAGRO ©2022 .
--Donde Visítarnos en: http://bienestarcba.blogspot.com/
--Teléfono: 15462323.
--Validación W3C.
--Las redes sociales del Sena.
+- Exposiciones.
+- Eventos.
+- Quienes somos.
+- Objetivos.
+- Inicio.
+- Cómo llegar .
+- El logo del SENA.
+- El logo del CBAGRO.
+- El copyright SENA CBAGRO ©2022 .
+- Donde Visítarnos en: http://bienestarcba.blogspot.com/
+- Teléfono: 15462323.
+- Validación W3C.
+- Las redes sociales del Sena.
 
 En el inicio de la página se recopilan algunas de las exposiciones de todos los trabajos realizados por el equipo, la intención de esto es que el index sea atractivo para el usuario desde la primera vez que este lo vea.
+
+![image](https://user-images.githubusercontent.com/110683744/193495167-149e6655-db37-45b6-beda-4fd8d4a34792.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193495221-a5547d65-7710-4000-bb17-c4f7e07f35b8.png)
+
+## Quiénes Somos ##
+Esta es una de las principales categorías de la página del CBAGRO en donde evidenciamos una descripción de quién es y que ofrece el **SENA** en nivel general.
+- A continuación vemos un video puesto en la página. 
+ ![image](https://user-images.githubusercontent.com/110676905/193472053-0a16a6e6-3aca-4a0d-bfa2-7bdcb4d432f5.png)
+ 
+ #### codigo para poner el video ####
+ ` <iframe class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12" height="615"
+                    src="https://www.youtube.com/embed/k5rZk-qC0JM" title="SENA es Colombia"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe> `
+                    
+A Continuación definimos con que cuenta el **SENA** en sí: 
+- Personería Jurídica.
+
+- Patrimonio propio e independiente.
+
+- Autonomía administrativa.
+
+Luego se define todo lo que ofrece de más el **SENA** y su información.
+![image](https://user-images.githubusercontent.com/110676905/193472924-e20c8187-da5b-4629-8f15-c98ac428dd70.png)
+
+#### Escudo y Bandera ####
+
+Se define las características y la imagen de la bandera del **SENA** 
+![image](https://user-images.githubusercontent.com/110676905/193475544-edd63583-086a-454d-908d-a55fd7d037e0.png)
+
+#### Historia ####
+ Aca se define la historia del **SENA** y su nacimiento en 1957
+ ![image](https://user-images.githubusercontent.com/110676905/193475653-75200628-0fce-4417-8eb3-967127c7f82b.png)
+ - A continuación vemos un video puesto en la página.
+ ![image](https://user-images.githubusercontent.com/110676905/193475796-50a2ebac-d039-4a69-881c-389ba97ec75a.png)
+
+ #### Codigo para poner el video ####
+  `` <iframe class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12" height="615"
+                        src="https://www.youtube.com/embed/U_exqn8Khpk" title="SENA es Colombia"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen></iframe> ``
+                      
+#### responsive ####
+De igual manera esta pagina es de uso en diferentes dispositivos tales como celular pc tablet etc
+
+![image](https://user-images.githubusercontent.com/110676905/193476120-fb10bb71-c445-48c5-bf3f-881f967141f6.png)
+
+- En esta imagen vemos la pagina desde un pc
+
+![image](https://user-images.githubusercontent.com/110676905/193476156-067de1a7-c2a4-4e9a-9ea7-48c8557987da.png)
+
+- Y en esta la vemos tal su forma en versión para celular 
+
+
+## Objetivos ##
+El objetivo por el cual creamos este proyecto es para los futuros aprendices tengan motivos para acceder a los programas del CBA, donde para cada aprendiz hay una oferta de educación muy variada para todos los gustos con instructores con toda la experiencia y conocimiento, junto a eso también deseamos demostrar que en el centro no solo se dedica a la agricultura y crianza de animales,  sino también  se pueden lograr muchas metas a nivel formativo.
+
+![image](https://user-images.githubusercontent.com/110683744/193495347-211403fb-8612-4eba-958c-52f02cbfe4c3.png)
+
+
+Aca se mostraran la gran unidad entre aprendiz e instructor como directorios donde ellos se preocupan por el bienestar todos y hacen que el CBA sea un ambiente de educación y diversidad de manera bien implementada 
+
+![image](https://user-images.githubusercontent.com/110683744/193495386-4821d91b-624e-44cb-9606-e7d134c44de0.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193495423-2477d3be-32e9-4d41-ac01-802497fcc416.png)
+
+#### codigo usado en el carrusel de fotos ####
+```
+<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0"
+                            class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
+                            aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
+                            aria-label="Slide 3"></button>
+                    </div>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="https://www.sena.edu.co/es-co/Noticias/NoticiasImg/BPganaderia_13Dic2018.jpg"
+                                class="d-block w-100 carusel2 img_carusel" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                                <!-- para añadir texto alternativo  -->
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="http://2.bp.blogspot.com/-LG1eYwA5fos/TVbRBuMLtsI/AAAAAAAAADk/IldWYroxkkc/s1600/Auditorio.JPG"
+                                class="d-block w-100 carusel2 img_carusel" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="https://1.bp.blogspot.com/-P_XvsfBEplM/WdVHxsiEEAI/AAAAAAAAELw/2YDAIuykoI0EDsPRF8uhJJ-noHGuK9alQCLcBGAs/s1600/IMG_9987.JPG"
+                                class="d-block w-100 carusel2 img_carusel" alt="...">
+                            <div class="carousel-caption d-none d-md-block">
+                            </div>
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
+                        data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions"
+                        data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+```
+
+
+
+
+## Cómo Llegar ##
+En esta parte se puso un mapa extraído de maps con la ubicación del **SENA** 
+![image](https://user-images.githubusercontent.com/110676905/193475913-0920b85e-9198-4fb6-b626-784f537962f0.png)
+
+#### codigo para poner el mapa ####
+ `` <iframe class="map"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15905.503575015211!2d-74.20909989340822!3d4.704591472418052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9d58cf6e291b%3A0x8946ec678fcf04b4!2sSENA%20Mosquera%20-%20Centro%20de%20Biotecnolog%C3%ADa%20Agropecuaria%20(CBA)!5e0!3m2!1ses!2sco!4v1663436151615!5m2!1ses!2sco"
+                            allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> ``
+
+Y con esto los datos básicos y geográficos del CBA de Mosquera Cundinamarca.
+![image](https://user-images.githubusercontent.com/110676905/193476032-d1064cc4-dd37-493c-921c-1c19c4123844.png)
+
+# Categorías #
+
+## Apicultura ##
+
+En la sección de apicultura por motivos de seguridad y restricciones por parte del centro se hizo una investigación donde se explica en qué consiste esta práctica y qué beneficios ha traído; nos enfocamos más en hablar sobre sus productos porque son necesarios gran parte para uso doméstico y tienen muchos nutrientes para el bienestar nuestra salud, son productos que se adquieren en el CBA a precios cómodos y de alta calidad.
+
+![image](https://user-images.githubusercontent.com/110683744/193495493-70584faf-9a19-4768-bfa9-9e9649a0a840.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193495517-1bbc6c15-94dd-4806-abb6-be6f7631ad62.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193495553-f0d3f10b-2036-433b-a48f-d3bb9845bd23.png)
+
+En la sección de eventos se explica los respectivos códigos que se usaron para lograr este tipo de tarjetas con ventanas modales, su intención es que el usuario se enamore de un producto a primera vista y tenga en cuenta todas las características de este mismo.
+
+## Especies Menores ##
+
+En esta sección encontrará sobre las especies menores que se encuentran en el CBA del SENA donde el manejo de las especies menores es una actividad muy rentable, requiere poca inversión de capital para el desarrollo de los procesos productivos, se realiza en  espacios muy pequeños para emprender actividades comerciales, dando a conocer el modo de alimentación y crecimiento y son especies que permiten aprovechar muy bien los recursos naturales del entorno y el aprovechamiento de los productos y residuos de otras actividades agropecuarias.
+
+![image](https://user-images.githubusercontent.com/110683744/193495606-61b38178-3aa6-49da-b099-a0a37ad18835.png)
+
+Se realizó la presentación de las especies mediante las cards donde cada una de ellas contiene fotos y presenta una breve descripción de la especie 
+
+![image](https://user-images.githubusercontent.com/110683744/193495652-937301e2-8f81-43c5-8b7e-a8dbc2708609.png)
+
+Por lo tanto también se realizó una sección donde se muestran los productos cosechados en el CBA con su breve descripción de su realización y cuidados
+
+![image](https://user-images.githubusercontent.com/110683744/193495689-0f242663-8ca5-47f6-9062-257a7ab33050.png)
+
+## Ganadería ## 
+
+El CBA cuenta con una exagerada cantidad de animales en el área de la ganadería dándonos a entender su capacidad productora y de tecnología que tiene para mantener estos animales, entre sus usos están los productos primarios de la crianza de bovinos de leche son la leche, carne y cuero. Los pequeños productores, con fines de seguridad alimentaria, elaboran queso o yogurt. La industria procesa una diversidad de productos lácteos los cuales recalcamos que en el CBA vendemos.
+
+El resultado de los derivados lácteos corresponde a una serie de procesos artesanales que adelantan dentro de la misma finca: primero ordeñan manualmente, cuelan la leche, se pasteuriza y se distribuye para la preparación de cada producto. "Actualmente, estamos preparando yogures de feijoa, piña, frutos rojos, mango, lulo y maracuyá, los cuales son naturales y sin aditivos. Todo esto es gracias al SENA, a quien le agradezco inmensamente porque es una Entidad que no se fija en clases sociales, si somos del campo o de la ciudad"
+
+![image](https://user-images.githubusercontent.com/110683744/193495731-fac65117-b6c4-4d71-9d55-5df8c45d43b2.png)
+
+El concepto de hato hace referencia a una porción de ganado mayor (vacas, toros, bueyes, búfalos, caballos, etc.) y a las fincas destinadas a la crianza de estos animales. El concepto de hato hace referencia a una porción de ganado mayor (vacas, toros, bueyes, búfalos, caballos, etc.) en el CBA no tengo certeza de que tengamos caballos aún pero podría suponer que si 
+
+![image](https://user-images.githubusercontent.com/110683744/193495760-c648370b-2fc8-4467-86b2-a34ed5e1dd0c.png)
+
+La vaca que es nuestro principal productor , en el caso de la hembra, o toro, en el caso del macho, es un mamífero artiodáctilo de la familia de los bóvidos. Anteriormente era considerado una subespecie de Bos primigenius, pero un estudio reciente lo considera una especie distinta.
+
+![image](https://user-images.githubusercontent.com/110683744/193495811-e79d91d4-386c-43eb-b495-85a43e884419.png)
+
+ 
+En esto hacemos referencia a la ganadería vacuna a continuación veremos nuestros productos en comercialización
+
+![image](https://user-images.githubusercontent.com/110683744/193495867-50b88de1-b0e9-44db-bc2d-bdc33f4da703.png)
+
+Leche de Vacas CBA, Queso del CBA, Yogurt del CBA  
+Los productos de la leche proveen proteínas, vitaminas y minerales. La leche, el yogurt y el queso son la mejor fuente de calcio. La leche en cualquier forma, es una buena fuente de calcio. Ya que la leche es un producto derivado de un animal, contiene grasa saturada y colesterol.
+
+# Exposiciones #
+
+## Repostería y Coctelería ##
+
+En la Exposición de cocina y preparación contamos con la conocida repostería y coctelería  la cual se basa o trata en  aplicar los procesos asociados con la preparación, la decoración y el diseño de diferentes tipos de pasteles, postres, tartas y galletas. Es fácil de aprender y solo se requiere tener conocimientos elementales.
+
+![image](https://user-images.githubusercontent.com/110683744/193495932-37e5706d-a66d-43cb-869e-fe2e2ccf7253.png)
+
+
+
+
+
 
