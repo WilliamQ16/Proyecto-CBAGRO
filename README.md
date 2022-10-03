@@ -175,12 +175,12 @@ El objetivo por el cual creamos este proyecto es para los futuros aprendices ten
 
 Aca se mostraran la gran unidad entre aprendiz e instructor como directorios donde ellos se preocupan por el bienestar todos y hacen que el CBA sea un ambiente de educación y diversidad de manera bien implementada. 
 
-![image](https://user-images.githubusercontent.com/110683744/193495386-4821d91b-624e-44cb-9606-e7d134c44de0.png)
+- ![image](https://user-images.githubusercontent.com/110676905/193492236-2bfc4f6b-1db3-450d-bc65-419ee1d809d0.png)
+- ![image](https://user-images.githubusercontent.com/110676905/193492369-3d2dbb9f-c6f5-4b9b-bae5-49addb70eaec.png)
+- ![image](https://user-images.githubusercontent.com/110676905/193492344-91dbd75f-f703-439b-bc55-0e65c37ad0ea.png)
 
-![image](https://user-images.githubusercontent.com/110683744/193495423-2477d3be-32e9-4d41-ac01-802497fcc416.png)
+#### codigo para poner el carrusel ####
 
-#### codigo usado en el carrusel de fotos ####
-```
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
                     <div class="carousel-indicators">
                         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0"
@@ -223,11 +223,7 @@ Aca se mostraran la gran unidad entre aprendiz e instructor como directorios don
                         <span class="visually-hidden">Next</span>
                     </button>
                 </div>
-```
-
-
-
-
+              
 ## Cómo Llegar ##
 En esta parte se puso un mapa extraído de maps con la ubicación del **SENA** 
 ![image](https://user-images.githubusercontent.com/110676905/193475913-0920b85e-9198-4fb6-b626-784f537962f0.png)
