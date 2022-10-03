@@ -95,8 +95,8 @@ también en los ítems de categorías y exposiciones van acompañados de un icon
 
 Las librerías de google también fueron de gran utilidad para la fuente general de todo el proyecto porque se usó la fuente ‘Poppins’ de la librería Google Fonts.
 A continuación se presenta todos los requerimientos que se cumplieron en este proyecto para la maquetación general:
-Las categorías.
 
+- Las categorías.
 - Exposiciones.
 - Eventos.
 - Quienes somos.
