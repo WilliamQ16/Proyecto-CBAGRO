@@ -336,6 +336,7 @@ En cuanto a Coctelería y en nuestro curso de Bartender que tratamos todo lo que
 ya sea un Daikiri , margarita , Manhattan siempre la sensacion sera la misma al verlos por eso me fije en que el usuario se sienta tentado mínimamente a preguntar qué es o a qué sabor se  asemeja. 
 
 ![image](https://user-images.githubusercontent.com/110683744/193496359-35e6e543-c67b-4972-9ff5-30d721d0fdb9.png)
+![image](https://user-images.githubusercontent.com/110676905/193495479-a1ec74a9-cb8b-47d5-9771-cb00231f4771.png)
 
 ## Biotecnología ##
 La sección de biotecnología se encuentra todo lo que tiene que ver con el agro en el centro, se pensó en ello porque en los requerimientos iniciales del trabajo no había una sección donde se explicaran todos los productos que se obtienen de las cosechas, entonces en la sección de biotecnología se explican los procedimientos agrarios que son gestionados por medios electrónicos sean por medio de hardware o software. 
