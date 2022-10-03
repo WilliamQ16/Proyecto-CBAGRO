@@ -300,6 +300,108 @@ En la Exposición de cocina y preparación contamos con la conocida repostería 
 
 ![image](https://user-images.githubusercontent.com/110683744/193495932-37e5706d-a66d-43cb-869e-fe2e2ccf7253.png)
 
+- Beneficios de la repostería casera
+- Ingredientes nutritivos
+- Alimento completo
+- Libre de conservantes
+- Menor cantidad de calorías. 
+- Menor cantidad de grasa.
+- Reducción del colesterol.
+- Bueno para la salud
+- Reduce la contaminación.
+
+![image](https://user-images.githubusercontent.com/110683744/193496178-a535e44f-666d-45f0-9157-9ba0002aa6c5.png)
+
+Bueno en nuestros menús no pueden faltar los clásicos y mejores postres del CBA como unos deliciosos postres de flan o el clásico postre de plátano o torta de plátano ya más adentrándonos podemos ver  que los principales del CBA y más Tops en cuanto a preparación y proceso son los siguientes 
+
+- Carolina. Josean Alija. ...
+- Baklava. Chris Ford. ...
+- Selva Negra. ...
+- Cheesecake de ruibarbo. ...
+- Tarta de zanahoria. ...
+- Opera. ...
+- Tarta de manzana. ...
+- Pavlova
+
+![image](https://user-images.githubusercontent.com/110683744/193496268-ed8409d6-74e8-4a31-a1f4-8be2c349085e.png)
+
+En cuanto a Coctelería y en nuestro curso de Bartender que tratamos todo lo que tenga que ver con cócteles de cualquier tipo y especialidad me fije en lo más exotico y decente de nuestros Centro entre sus bebidas más deliciosas estaban las siguientes : 
+
+![image](https://user-images.githubusercontent.com/110683744/193496319-bd11dec7-6219-4118-a53c-ad8add867b5e.png)
+
+ya sea un Daikiri , margarita , Manhattan siempre la sensacion sera la misma al verlos por eso me fije en que el usuario se sienta tentado mínimamente a preguntar qué es o a qué sabor se  asemeja 
+
+![image](https://user-images.githubusercontent.com/110683744/193496359-35e6e543-c67b-4972-9ff5-30d721d0fdb9.png)
+
+## Biotecnología ##
+La sección de biotecnología se encuentra todo lo que tiene que ver con el agro en el centro, se pensó en ello porque en los requerimientos iniciales del trabajo no había una sección donde se explicaran todos los productos que se obtienen de las cosechas, entonces en la sección de biotecnología se explican los procedimientos agrarios que son gestionados por medios electrónicos sean por medio de hardware o software. 
+
+El CBA hasta el momento casi no ha implementado tecnologías de este tipo por ello se complementa esta página con los productos agrícolas que están a la venta porque como se explicó anteriormente esta temática es fundamental para una plataforma que trate del agro y en el objetivo planteado inicialmente no se contempló. 
+
+![image](https://user-images.githubusercontent.com/110683744/193496408-c8f85757-454a-47ce-97a6-ee90ca770626.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193496449-d8a35389-fa7f-4356-a020-8c6edc1e0ec6.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193496478-0d266874-65c2-4049-b9e1-6ecfa2b968be.png)
+
+![image](https://user-images.githubusercontent.com/110683744/193496508-4f518b70-eb7e-4258-9d91-19e1eef1e086.png)
+
+## Eventos ##
+En este espacio se puede evidenciar los eventos tanto anuncios más recientes y próximos del CBA Mosquera.
+![image](https://user-images.githubusercontent.com/110676905/193477176-ced2e95b-aaf1-4369-82af-ada1ca6de547.png)
+![image](https://user-images.githubusercontent.com/110676905/193477193-e42021db-bbaf-4501-9aa4-d702a0f9f388.png)
+![image](https://user-images.githubusercontent.com/110676905/193477231-9bf92036-18ac-4562-844d-eab5234a91e9.png)
+
+#### Código usado para hacer las cards de eventos ####
+se usó el ejemplo del evento del amor y la amistad.
+
+```
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 carta_espacio">
+                            <div class="card largo_carta">
+                                <img src="../img/Amor-y-amistad.png" alt="" class="card-img-top">
+                                <div class="card-body">
+                                    <h5 class="card-title mx-auto d-flex justify-content-center">AMOR Y AMISTAD</h5>
+                                    <p class="card-text">
+                                    </p>
+                                    <button id="button2" type="button"
+                                        class="btn btn-dark mx-auto d-flex justify-content-center"
+                                        data-bs-toggle="modal" data-bs-target="#Modal2">
+                                        Ver más >>
+                                    </button>
+                                </div>
+                            </div>
+                        </div> 
+```
+
+Luego de esto se hizo el modal el cual está conectado a la card mediante el botón de ver mas--> 
+
+#### Código usado para hacer el modal de eventos ####
+```
+ <div class="modal fade" id="Modal2" tabindex="-1" aria-labelledby="Modal2" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">AMOR Y AMISTAD</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+
+                        <img src="../img/Amor-y-amistad.png" alt="" class="img-fluid">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> 
+```
+![image](https://user-images.githubusercontent.com/110676905/193478003-4481366d-1e1a-4c47-b6c2-e5145923693f.png)
+
+
+
+
+
+
 
 
 
