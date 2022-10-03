@@ -292,6 +292,10 @@ En esto hacemos referencia a la ganadería vacuna a continuación veremos nuestr
 Leche de Vacas CBA, Queso del CBA, Yogurt del CBA  
 Los productos de la leche proveen proteínas, vitaminas y minerales. La leche, el yogurt y el queso son la mejor fuente de calcio. La leche en cualquier forma, es una buena fuente de calcio. Ya que la leche es un producto derivado de un animal, contiene grasa saturada y colesterol.
 
+
+![image](https://user-images.githubusercontent.com/110676905/193494263-cc82187c-f551-488a-aabc-b20203b2a42c.png)
+![image](https://user-images.githubusercontent.com/110676905/193494330-0ee0cab3-18af-4c47-88ae-1fa3c94e67a9.png)
+
 # Exposiciones #
 
 ## Repostería y Coctelería ##
