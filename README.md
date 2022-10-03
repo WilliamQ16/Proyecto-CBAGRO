@@ -262,11 +262,11 @@ En esta sección encontrará sobre las especies menores que se encuentran en el 
 
 Se realizó la presentación de las especies mediante las cards donde cada una de ellas contiene fotos y presenta una breve descripción de la especie 
 
-![image](https://user-images.githubusercontent.com/110683744/193495652-937301e2-8f81-43c5-8b7e-a8dbc2708609.png)
+ ![image](https://user-images.githubusercontent.com/110676905/193493663-7984e0f5-c625-4400-b0d8-8e1f5ec0595b.png)
 
 Por lo tanto también se realizó una sección donde se muestran los productos cosechados en el CBA con su breve descripción de su realización y cuidados
 
-![image](https://user-images.githubusercontent.com/110683744/193495689-0f242663-8ca5-47f6-9062-257a7ab33050.png)
+ ![image](https://user-images.githubusercontent.com/110676905/193493755-9a6ad752-e359-4efb-875f-f3e58f9da880.png)
 
 ## Ganadería ## 
 
