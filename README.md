@@ -92,3 +92,22 @@ también en los ítems de categorías y exposiciones van acompañados de un icon
 ![image](https://user-images.githubusercontent.com/110683744/193492955-c1588cf5-f4f2-4fb4-bb15-2bbe93466045.png)
 
 ![image](https://user-images.githubusercontent.com/110683744/193493089-f57dbb06-1e1b-42d7-8b80-5363e5b6a2f6.png)
+
+Las librerías de google también fueron de gran utilidad para la fuente general de todo el proyecto porque se usó la fuente ‘Poppins’ de la librería Google Fonts.
+A continuación se presenta todos los requerimientos que se cumplieron en este proyecto para la maquetación general:
+Las categorías.
+Exposiciones.
+Eventos.
+Quienes somos.
+Objetivos.
+Inicio.
+Cómo llegar .
+El logo del SENA.
+El logo del CBAGRO.
+El copyright SENA CBAGRO ©2022 .
+Donde Visítarnos en: http://bienestarcba.blogspot.com/
+Teléfono: 15462323.
+Validación W3C.
+Las redes sociales del Sena.
+En el inicio de la página se recopilan algunas de las exposiciones de todos los trabajos realizados por el equipo, la intención de esto es que el index sea atractivo para el usuario desde la primera vez que este lo vea.
+
