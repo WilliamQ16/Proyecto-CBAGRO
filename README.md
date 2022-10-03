@@ -3,7 +3,7 @@
 ## Entidad: Centro de Biotecnología Agropecuaria
 ## Ficha: 2558346
 ## Programa: Análisis y Desarrollo de Software - A.D.S.O
-## Autor: William David Garzón Quevedo, Wilson Mauricio Rodriguez, Diego Alejandro Díaz, Christian Andres De Avila.
+## Autor: William David Garzón Quevedo, Wilson Mauricio Rodriguez, Diego Alejandro Díaz Rodriguez, Christian Andres De Avila.
 ## Fecha Creación: 02 de Septiembre - 02 de Octubre  del 2022
 ## Versión: 1.0.0
 
